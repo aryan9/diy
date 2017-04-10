@@ -1,0 +1,1508 @@
+Sat Apr  8 15:39:01 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-27 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:39:08 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-27 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:39:15 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-27 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:39:26 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-28 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:39:32 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-28 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:39:39 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-27 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:39:46 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-28 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:39:53 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-29 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:40:00 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-28 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:40:14 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-27 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:40:20 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-27 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 15:40:27 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-27 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:19:30 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-21 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:19:36 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:19:43 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-19 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:22:58 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-22 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:23:04 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:23:11 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-19 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:26:47 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-19 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:26:53 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-21 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:27:00 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:27:25 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:27:31 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:27:38 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:18 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-22 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:24 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:31 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:51 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:57 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-21 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:29:04 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:29:41 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-22 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:29:48 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-21 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:29:54 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-20 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:07:26 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-12 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:07:33 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-13 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:07:39 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-15 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:08:09 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-15 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:08:16 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-13 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:08:22 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-14 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:08:40 UTC 2017 : Nothing
+Sat Apr  8 20:08:42 UTC 2017 : Nothing
+Sat Apr  8 20:08:44 UTC 2017 : Nothing
+Sat Apr  8 20:08:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-13 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:08:58 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-15 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:09:05 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-14 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:10:28 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-10 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:10:29 UTC 2017 : Nothing
+Sat Apr  8 20:10:31 UTC 2017 : Nothing
+Sat Apr  8 20:10:33 UTC 2017 : Nothing
+Sat Apr  8 20:10:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-9 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:10:42 UTC 2017 : Nothing
+Sat Apr  8 20:10:44 UTC 2017 : Nothing
+Sat Apr  8 20:10:51 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-9 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:11:21 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:11:28 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:11:34 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=4 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:12:06 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:12:12 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:12:19 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:13:37 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:13:44 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:13:50 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=1 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:14:20 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:14:27 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:14:33 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:16:05 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:16:12 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:16:19 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:17:59 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:18:06 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:18:13 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:25:39 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=4 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:25:45 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:25:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:27:12 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:27:19 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:27:25 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=1 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:08 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-13 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:15 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-13 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:22 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-13 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=4 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:28:58 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:29:05 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=46/70  Signal level=-64 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:29:37 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=5 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:29:44 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:29:50 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=4 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:30:25 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:30:31 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:30:38 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:31:12 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:31:19 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:31:26 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:32:00 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:32:01 UTC 2017 : Nothing
+Sat Apr  8 20:32:04 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:32:06 UTC 2017 : Nothing
+Sat Apr  8 20:32:09 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:33:34 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:33:41 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=3 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:33:43 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=2 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:07:27 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=67/70  Signal level=-43 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:07:34 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=66/70  Signal level=-44 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:07:35 UTC 2017 : Nothing
+Sat Apr  8 20:07:37 UTC 2017 : Nothing
+Sat Apr  8 20:07:39 UTC 2017 : Nothing
+Sat Apr  8 20:07:41 UTC 2017 : Nothing
+Sat Apr  8 20:07:45 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=68/70  Signal level=-42 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:08:17 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=67/70  Signal level=-43 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:08:18 UTC 2017 : Nothing
+Sat Apr  8 20:08:20 UTC 2017 : Nothing
+Sat Apr  8 20:08:28 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=67/70  Signal level=-43 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Sat Apr  8 20:08:29 UTC 2017 : Nothing
+Sat Apr  8 20:08:32 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=66/70  Signal level=-44 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:52:50 UTC 2017 : Nothing
+Mon Apr 10 15:52:52 UTC 2017 : Nothing
+Mon Apr 10 15:53:00 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=57/70  Signal level=-53 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:53:02 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=58/70  Signal level=-52 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:53:04 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=57/70  Signal level=-53 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:53:21 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=60/70  Signal level=-50 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:53:23 UTC 2017 : Nothing
+Mon Apr 10 15:53:25 UTC 2017 : Nothing
+Mon Apr 10 15:53:32 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=57/70  Signal level=-53 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:53:34 UTC 2017 : Nothing
+Mon Apr 10 15:53:36 UTC 2017 : Nothing
+Mon Apr 10 15:53:38 UTC 2017 : Nothing
+Mon Apr 10 15:53:45 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=59/70  Signal level=-51 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:54:06 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=57/70  Signal level=-53 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:54:07 UTC 2017 : Nothing
+Mon Apr 10 15:54:09 UTC 2017 : Nothing
+Mon Apr 10 15:54:12 UTC 2017 : Nothing
+Mon Apr 10 15:54:15 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=56/70  Signal level=-54 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:54:16 UTC 2017 : Nothing
+Mon Apr 10 15:54:19 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=55/70  Signal level=-55 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:54:33 UTC 2017 : Nothing
+Mon Apr 10 15:54:35 UTC 2017 : Nothing
+Mon Apr 10 15:54:43 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=56/70  Signal level=-54 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:54:45 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=54/70  Signal level=-56 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:54:48 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=56/70  Signal level=-54 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:55:16 UTC 2017 : Nothing
+Mon Apr 10 15:55:19 UTC 2017 : Nothing
+Mon Apr 10 15:55:21 UTC 2017 : Nothing
+Mon Apr 10 15:55:23 UTC 2017 : Nothing
+Mon Apr 10 15:55:26 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=51/70  Signal level=-59 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:55:29 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=51/70  Signal level=-59 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:55:31 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=51/70  Signal level=-59 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:55:50 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=51/70  Signal level=-59 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:55:57 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=51/70  Signal level=-59 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:55:58 UTC 2017 : Nothing
+Mon Apr 10 15:56:00 UTC 2017 : Nothing
+Mon Apr 10 15:56:02 UTC 2017 : Nothing
+Mon Apr 10 15:56:04 UTC 2017 : Nothing
+Mon Apr 10 15:56:06 UTC 2017 : Nothing
+Mon Apr 10 15:56:09 UTC 2017 : Nothing
+Mon Apr 10 15:56:16 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=52/70  Signal level=-58 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:56:41 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=45/70  Signal level=-65 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:56:48 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=46/70  Signal level=-64 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:56:49 UTC 2017 : Nothing
+Mon Apr 10 15:56:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=46/70  Signal level=-64 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:57:16 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=45/70  Signal level=-65 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:57:17 UTC 2017 : Nothing
+Mon Apr 10 15:57:19 UTC 2017 : Nothing
+Mon Apr 10 15:57:27 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=46/70  Signal level=-64 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:57:28 UTC 2017 : Nothing
+Mon Apr 10 15:57:31 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=45/70  Signal level=-65 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:58:07 UTC 2017 : Nothing
+Mon Apr 10 15:58:15 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:58:21 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:58:24 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:58:57 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:59:04 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:59:05 UTC 2017 : Nothing
+Mon Apr 10 15:59:09 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:59:40 UTC 2017 : Nothing
+Mon Apr 10 15:59:42 UTC 2017 : Nothing
+Mon Apr 10 15:59:44 UTC 2017 : Nothing
+Mon Apr 10 15:59:46 UTC 2017 : Nothing
+Mon Apr 10 15:59:48 UTC 2017 : Nothing
+Mon Apr 10 15:59:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=50/70  Signal level=-60 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:59:53 UTC 2017 : Nothing
+Mon Apr 10 15:59:56 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:59:59 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:20 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:21 UTC 2017 : Nothing
+Mon Apr 10 16:00:25 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=44/70  Signal level=-66 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:27 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:59 UTC 2017 : Nothing
+Mon Apr 10 16:01:07 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=43/70  Signal level=-67 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:08 UTC 2017 : Nothing
+Mon Apr 10 16:01:10 UTC 2017 : Nothing
+Mon Apr 10 16:01:18 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:19 UTC 2017 : Nothing
+Mon Apr 10 16:01:23 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:02:37 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:02:44 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:02:50 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:03:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=35/70  Signal level=-75 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:03:41 UTC 2017 : Nothing
+Mon Apr 10 16:03:44 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=36/70  Signal level=-74 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:03:46 UTC 2017 : Nothing
+Mon Apr 10 16:03:49 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=36/70  Signal level=-74 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:04:16 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=34/70  Signal level=-76 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:04:17 UTC 2017 : Nothing
+Mon Apr 10 16:04:19 UTC 2017 : Nothing
+Mon Apr 10 16:04:27 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=36/70  Signal level=-74 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:04:28 UTC 2017 : Nothing
+Mon Apr 10 16:04:31 UTC 2017 : Nothing
+Mon Apr 10 16:04:38 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=36/70  Signal level=-74 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:05:26 UTC 2017 : Nothing
+Mon Apr 10 16:05:28 UTC 2017 : Nothing
+Mon Apr 10 16:05:30 UTC 2017 : Nothing
+Mon Apr 10 16:05:32 UTC 2017 : Nothing
+Mon Apr 10 16:05:36 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:05:37 UTC 2017 : Nothing
+Mon Apr 10 16:05:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=35/70  Signal level=-75 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:05:43 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=34/70  Signal level=-76 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:06:15 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=34/70  Signal level=-76 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:06:21 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:06:23 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=36/70  Signal level=-74 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:07:00 UTC 2017 : Nothing
+Mon Apr 10 16:07:07 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:07:09 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:07:12 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:07:41 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:07:43 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:07:45 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:08:16 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=36/70  Signal level=-74 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:08:23 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:08:30 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:09:02 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=35/70  Signal level=-75 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:09:04 UTC 2017 : Nothing
+Mon Apr 10 16:09:06 UTC 2017 : Nothing
+Mon Apr 10 16:09:10 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=33/70  Signal level=-77 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:09:12 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=34/70  Signal level=-76 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:10:08 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:10:09 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=36/70  Signal level=-74 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:10:12 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=36/70  Signal level=-74 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:10:36 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=36/70  Signal level=-74 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:10:43 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:10:46 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:11:26 UTC 2017 : Nothing
+Mon Apr 10 16:11:28 UTC 2017 : Nothing
+Mon Apr 10 16:11:36 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:11:38 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:11:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:12:02 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=43/70  Signal level=-67 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:12:09 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:12:11 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:12:51 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:12:52 UTC 2017 : Nothing
+Mon Apr 10 16:12:55 UTC 2017 : Nothing
+Mon Apr 10 16:12:57 UTC 2017 : Nothing
+Mon Apr 10 16:13:00 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:03 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:22 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:24 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:27 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:14:10 UTC 2017 : Nothing
+Mon Apr 10 16:14:12 UTC 2017 : Nothing
+Mon Apr 10 16:14:14 UTC 2017 : Nothing
+Mon Apr 10 16:14:18 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=43/70  Signal level=-67 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:14:19 UTC 2017 : Nothing
+Mon Apr 10 16:14:22 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=42/70  Signal level=-68 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:14:25 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=43/70  Signal level=-67 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:14:49 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=43/70  Signal level=-67 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:14:50 UTC 2017 : Nothing
+Mon Apr 10 16:14:54 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:14:55 UTC 2017 : Nothing
+Mon Apr 10 16:14:58 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=45/70  Signal level=-65 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:56:06 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=61/70  Signal level=-49 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:56:08 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=60/70  Signal level=-50 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:56:11 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=59/70  Signal level=-51 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 15:59:56 UTC 2017 : Nothing
+Mon Apr 10 15:59:58 UTC 2017 : Nothing
+Mon Apr 10 16:00:01 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-32 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:04 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-34 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:06 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-32 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:08 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-32 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:11 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-32 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:13 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-34 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:16 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-35 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:18 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-32 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:21 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-32 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:00:23 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-32 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:06 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-33 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:08 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-36 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:10 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-34 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:13 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-36 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:15 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-33 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:18 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-36 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:20 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-34 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:23 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-35 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:25 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-33 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:01:27 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=70/70  Signal level=-34 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:25 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=64/70  Signal level=-46 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:28 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=64/70  Signal level=-46 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:30 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=64/70  Signal level=-46 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:33 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=65/70  Signal level=-45 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:35 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=63/70  Signal level=-47 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:38 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=64/70  Signal level=-46 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=64/70  Signal level=-46 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:43 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=63/70  Signal level=-47 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:45 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=63/70  Signal level=-47 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:13:48 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=64/70  Signal level=-46 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:06 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=56/70  Signal level=-54 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:08 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=56/70  Signal level=-54 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:11 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=56/70  Signal level=-54 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:13 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=57/70  Signal level=-53 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:16 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=55/70  Signal level=-55 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:18 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=56/70  Signal level=-54 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:20 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=55/70  Signal level=-55 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:23 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=57/70  Signal level=-53 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:25 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=55/70  Signal level=-55 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:15:26 UTC 2017 : Nothing
+Mon Apr 10 16:15:29 UTC 2017 : Nothing
+Mon Apr 10 16:15:31 UTC 2017 : Nothing
+Mon Apr 10 16:15:34 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=56/70  Signal level=-54 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:19 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=54/70  Signal level=-56 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:21 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=52/70  Signal level=-58 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:24 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=52/70  Signal level=-58 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:26 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=56/70  Signal level=-54 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:29 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=52/70  Signal level=-58 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:31 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=50/70  Signal level=-60 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:34 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=55/70  Signal level=-55 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:36 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=53/70  Signal level=-57 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:39 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=53/70  Signal level=-57 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:16:41 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=51/70  Signal level=-59 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:17:36 UTC 2017 : Nothing
+Mon Apr 10 16:17:38 UTC 2017 : Nothing
+Mon Apr 10 16:17:42 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:17:44 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=49/70  Signal level=-61 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:17:47 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:17:49 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=49/70  Signal level=-61 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:17:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:17:54 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:17:56 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=49/70  Signal level=-61 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:17:59 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:18:01 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:18:04 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:20 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:23 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:25 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:28 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:30 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:32 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:35 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:37 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=47/70  Signal level=-63 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:19:42 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=48/70  Signal level=-62 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:29 UTC 2017 : Nothing
+Mon Apr 10 16:21:32 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:35 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:38 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:43 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:45 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:47 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:50 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:21:55 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:22:37 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:22:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:22:42 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:22:44 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:22:47 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:22:49 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:22:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:22:54 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:22:57 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:23:00 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:23:37 UTC 2017 : Nothing
+Mon Apr 10 16:23:39 UTC 2017 : Nothing
+Mon Apr 10 16:23:42 UTC 2017 : Nothing
+Mon Apr 10 16:23:44 UTC 2017 : Nothing
+Mon Apr 10 16:23:46 UTC 2017 : Nothing
+Mon Apr 10 16:23:48 UTC 2017 : Nothing
+Mon Apr 10 16:23:51 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:23:54 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=43/70  Signal level=-67 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:23:56 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=42/70  Signal level=-68 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:23:59 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=42/70  Signal level=-68 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:01 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:04 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:06 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:09 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=43/70  Signal level=-67 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:11 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:13 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:47 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:49 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:54 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:57 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:24:59 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:25:01 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:25:04 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:25:06 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:25:09 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:03 UTC 2017 : Nothing
+Mon Apr 10 16:26:06 UTC 2017 : Nothing
+Mon Apr 10 16:26:08 UTC 2017 : Nothing
+Mon Apr 10 16:26:10 UTC 2017 : Nothing
+Mon Apr 10 16:26:12 UTC 2017 : Nothing
+Mon Apr 10 16:26:14 UTC 2017 : Nothing
+Mon Apr 10 16:26:16 UTC 2017 : Nothing
+Mon Apr 10 16:26:18 UTC 2017 : Nothing
+Mon Apr 10 16:26:20 UTC 2017 : Nothing
+Mon Apr 10 16:26:22 UTC 2017 : Nothing
+Mon Apr 10 16:26:24 UTC 2017 : Nothing
+Mon Apr 10 16:26:27 UTC 2017 : Nothing
+Mon Apr 10 16:26:30 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:33 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:35 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:38 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:42 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:45 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:47 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:50 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:26:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:12 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=33/70  Signal level=-77 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:14 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=42/70  Signal level=-68 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:17 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:19 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:22 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:24 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:27 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:29 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:32 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:27:34 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:24 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:26 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:29 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=42/70  Signal level=-68 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:31 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:34 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:36 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=43/70  Signal level=-67 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:39 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=42/70  Signal level=-68 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:41 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=41/70  Signal level=-69 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:44 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=42/70  Signal level=-68 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:28:46 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=42/70  Signal level=-68 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:31 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:33 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:36 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:38 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:40 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=40/70  Signal level=-70 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:43 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:45 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:48 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:50 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:29:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:21 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:23 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:26 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:28 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:31 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:32 UTC 2017 : Nothing
+Mon Apr 10 16:30:34 UTC 2017 : Nothing
+Mon Apr 10 16:30:36 UTC 2017 : Nothing
+Mon Apr 10 16:30:38 UTC 2017 : Nothing
+Mon Apr 10 16:30:42 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:44 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:47 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:49 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=37/70  Signal level=-73 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
+Mon Apr 10 16:30:52 UTC 2017 :                     Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"cc3200"
